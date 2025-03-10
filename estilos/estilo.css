@@ -1,0 +1,9 @@
+.inicio {
+	border: 2px red solid;
+	padding: 10px;
+	
+}
+.cuerpo input{
+	padding: 8px;
+	color: blue;
+}
