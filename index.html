@@ -5,34 +5,35 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Document</title>
 </head>
+<link rel="stylesheet" href="estilos/estilo.css">
 <body>
-
-	<h1>este es una prueba desde otro servidor </h1>
-	
-	<!-- <form action="">
-		<label for="">Escribe un dato</label>
+	<div>
+		<h2>CALCULADORA</h2>
+	</div>
+<form action="">
+	<div class="inicio">
+		<label>Ingrese primer numero</label>
+		<input type="text" id="valor1"><br>
+		<label>Ingrese primer numero</label><br>
 		<input type="text" id="valor2">
-		<br>
-		<input type="submit" onclick="goes()">
-	</form> -->
-<!-- 
-	<input type="text" id="valor2">
-	<br>
-	<input type="submit" onclick="goes()">
-	<br>
+	</div>
 
-	mostrar que dia es :<p id="mostrar"> </p> -->
+	<div class="cuerpo">
+	<input type="button" id="dato" value="+" onclick="Changes()" >
+	<!-- <input type="button" id="dato" value="-" onclick="Changes()" >
+	<input type="button" id="dato" value="*" onclick="Changes()" >
+	<input type="button" id="dato" value="/" onclick="Changes()" >
+	</div> -->
 
-<!-- 
-	<label for="">Numero 1</label> 
-	<input type="text" name="" id="dato1">
-	<br>
-	<label for="">Numero 2</label>
-	<input type="text" id="dato2">
-	<input type="submit" onclick="suma(dato1,dato2)"></input>
-	<p id="resultado">jkj</p> -->
+</form>
+	<div>
+		<span >lA SUMA ES : <span id="change"></span> </span>
+	</div>
+	
+	
+	
 </body>
-<script type="text/javascript" src="ejemplo3.js">
+<script type="text/javascript" src="archivos/data.js">
 	
 </script>
 </html>
