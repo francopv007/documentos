@@ -1,0 +1,55 @@
+body {
+	background: lightgrey;
+
+}
+.titulo1 {
+	text-align: justify;
+}
+.cuerpo{
+	text-align: center;
+}
+.prueba{
+
+/*	background:rgba(0,128,0,0.3);*/
+/*background-image: url("../imagenes/FONDO2.jpg");*/
+width: 100%;
+height: 500px;
+/*background-image: url("../imagenes/z5.jpg");
+background-repeat: no-repeat;
+background-position: right top;
+margin-right: 200px;
+border:solid green 1px;
+padding: 15px;*/
+}
+p{
+	color: navy;
+}
+p.valor2{
+	direction: rtl;
+/*	direction:revert;*/
+	unicode-bidi: bidi-override;
+	color: maroon;
+}
+
+/*---------------------------------------------*/
+.fondos{
+	width: 100%;
+	height: 800px;
+}
+section{
+    height:100vh;
+    width: 100%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   background-attachment: fixed;
+}
+.imagen1{
+	background-image: url(../imagenes/z1.jpg);
+}
+.imagen2{
+	background-image: url(../imagenes/z2.jpg);
+}
+.imagen3{
+	background-image: url(../imagenes/z4.jpg);
+}
