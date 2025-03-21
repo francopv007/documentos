@@ -82,7 +82,7 @@ ul li{
 	list-style: none;
 }
 /* cuerpo */
-.padre{
+/*.padre{
 	margin: 10px;
 	background: lightgrey;
  	display: flex;
@@ -93,7 +93,7 @@ ul li{
  	margin-right: 10%;
 	margin-left: 10%;
 
-}
+}*/
 img{
 	opacity: .6;
 	transition: margin 1s;
@@ -176,3 +176,40 @@ img:hover{
 	}
 }
 
+/*animacion*/
+.circulo{
+	margin-top:30px;
+	margin-left: 30px;
+	width: 150px;
+	height: 150px;
+	background-color: green;
+	border-radius: 50%;
+	animation-name:changeColor;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+	animation-direction: normal;
+/*	animation-delay: 2s;*/
+	animation-timing-function: ease-in-out;
+}
+
+.circulo:hover{
+	animation-play-state: paused;
+}
+@keyframes changeColor{
+	0%{
+		background-color: blue;
+		transform: translate(0);
+	}
+	25%{
+		background-color: red;
+		transform: translate(100%,0);
+	}
+	50%{
+		background-color: maroon;
+		transform: translate(100%,100%);
+	}
+	75%{
+		background-color: black;
+		transform: translate(0,100%);
+	}
+}
