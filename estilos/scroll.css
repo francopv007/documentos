@@ -17,6 +17,9 @@ body{
 	gap:3rem;
 	align-items:center;
 	overflow:hidden;
+	border:1px solid red;
+	margin-top:10px;
+
 }
 .hero--reverse{
 	flex-direction:row-reverse;
@@ -26,5 +29,12 @@ body{
 	font-size:4 rem;
 }
 .hero_img{
+	width:100%;
+}
+.menu{
+	background-color:green;
+	position :fixed;
+	border:1px solid blue;
+	margin-bottom:100px;
 	width:100%;
 }
