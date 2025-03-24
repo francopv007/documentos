@@ -30,6 +30,9 @@ body{
 }
 .hero_img{
 	width:100%;
+
+}
+
 }
 .menu{
 	background-color:green;
@@ -38,3 +41,37 @@ body{
 	margin-bottom:100px;
 	width:100%;
 }
+[data-animation="fade"]{
+	opacity: 0;
+	transform: translate(100%);
+	transition: .6s ease-in .3s;
+
+	--opacity:1;
+	--transform:translate(0);
+}
+
+[data-animation="show"]{
+	opacity: 0;
+	transform: scale(100%);
+	transition: .6s ease-in .3s;
+
+	--opacity:1;
+	--transform:sacale(1);
+}
+
+[data-animation="up"]{
+	opacity: 0;
+	transform: translateY(100%);
+	transition: .6s ease-in .3s;
+
+	--opacity:1;
+	--transform:translateY(0);
+}
+
+.unset{
+	opacity: var(--opacity);
+	transform: var(--transform);
+}
+/*.hero_figure{
+	background-color: black;
+}*/
