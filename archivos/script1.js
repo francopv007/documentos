@@ -33,3 +33,4 @@ const observer = new IntersectionObserver(triggerAnimation,options);
 images.forEach(image=>{
 	observer.observe(image);
 })
+
