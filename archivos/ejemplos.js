@@ -23,8 +23,24 @@ let frutas = ['MANZANAS','BANANA','NARANJA','UVA']
 let lista = document.getElementById('lista');
 
 frutas.forEach(fruta=>{
-	let li = document.createElement('li');
+	let li = document.createElement('button');
 	li.textContent = fruta;
 	lista.appendChild(li);
 });
 
+let items = document.querySelectorAll("li");
+items.forEach((item,taj)=>{
+	item.style.backgroundColor=taj%2 === 0 ? "blue" : "red";
+	console.log(taj);
+});
+
+let botones = document.querySelectorAll('button');
+botones.forEach((boton,index)=>{
+	boton.addEventListener("click",()=>{
+	alert(`hiciste click en el boton  ${index+1} - ${boton.index}`);
+
+	console.log(boton);
+	});
+
+	console.log(botones);
+});
