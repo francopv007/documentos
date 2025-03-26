@@ -22,9 +22,26 @@ const nuevosPaises = paises.map(function(e){
 let frutas = ['MANZANAS','BANANA','NARANJA','UVA']
 let lista = document.getElementById('lista');
 
+function mostrarLista(){
+	lista.innerHTML = " ";
 frutas.forEach(fruta=>{
 	let li = document.createElement('li');
 	li.textContent = fruta;
 	lista.appendChild(li);
 });
+}
 
+function AgregarFruta(){
+	let nuevafruta = document.getElementById("nuevaFruta").value
+	if(nuevafruta){
+		frutas.push(nuevafruta);
+		document.getElementById("nuevaFruta").value="";
+		mostrarLista();
+	}
+}
+
+function EliminarFruta(){
+	frutas.pop();
+	mostrarLista();
+}
+mostrarLista();
