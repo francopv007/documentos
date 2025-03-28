@@ -1,4 +1,4 @@
-.inicio {
+/* .inicio {
 	border: 2px red solid;
 	padding: 10px;
 	
@@ -6,4 +6,21 @@
 .cuerpo input{
 	padding: 8px;
 	color: blue;
+} */
+*{
+	padding:0px;
+	margin:0px;
+}
+.personal{
+	/* background-color:blue; */
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+}
+label{
+	font-size:25px;
+}
+input{
+	margin-bottom:15px;
+	padding:8px;
 }

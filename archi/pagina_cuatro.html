@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="../estilos/estilo.css">
 </head>
 <body>
     
@@ -14,7 +15,19 @@
     <button onclick="AgregarFruta()" >Añadir</button>
     <button onclick="EliminarFruta()">Eliminar</button>
 
-
+    <h1>Ingrese Datos</h1>
+    <section class="personal ">
+        <label for="">Nombre :</label>
+        <input type="text" id="nombre">
+        <label for="">Apellido</label>
+        <input type="text" id="apellido">
+        <label for="">Dni</label>
+        <input type="text" id="dni">
+        <input type="button" class="enviar" onclick="EnviarDato()" value="enviar">
+    </section>
+    <span id="mostrarNombre"></span>
+    <span id="mostrarApellido"></span>
+    <h4 id="new"></h4>
 
     <script src="../archivos/ejemplos.js"></script>
     <script src="../archivos/simples.js"></script>
