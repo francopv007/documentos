@@ -31,7 +31,6 @@ frutas.forEach(fruta=>{
 });
 }
 
-
 // let items = document.querySelectorAll("li");
 // items.forEach((item,taj)=>{
 // 	item.style.backgroundColor=taj%2 === 0 ? "blue" : "red";
@@ -63,4 +62,17 @@ function EliminarFruta(){
 	mostrarLista();
 }
 mostrarLista();
-
+function searching(){
+	let buscar = document.getElementById("search").value;
+	frutas.filter(function(e){
+		if(e==buscar){
+			// return document.getElementById("vistaElemento").textContent='Existen la fruta';
+			console.log(e,"es correcto",buscar);
+		}else{
+			// return "no esta correcto";
+			// return document.getElementById("vistaElemento").textContent='no Existen la fruta';
+			console.log(e,"NO es correcto",buscar);
+		}
+	
+	})
+}
