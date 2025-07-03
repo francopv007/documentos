@@ -1,30 +1,26 @@
  INTRODUCCION
 
-MUNDIAL(verder 
-Vargas, García  & Gutiérrez(2022) COLOMBIA
-Martínez & Cano(2023), MEXICO
-Varga  y otros (2022) COLOMBIA
-DE LA ROSA(2020) MEXICO
-Vaicilla , Narváez , Erazo Y Torres  (2020), ECUADOR
-Bone y Ponce (2023), ECUADOR
+MUNDIAL 
+Vargas, García  & Gutiérrez(2022) 
+Martínez & Cano(2023), 
+Varga  y otros (2022) 
+DE LA ROSA(2020)
+Vaicilla , Narváez , Erazo Y Torres  (2020), 
+Trelles y Morán (2023) 
 
-NACIONAL (rojo4)
-Suarez, Palomino y Agular,(2020), 
-Tarrillo  & Callao (2022), CHICLAYO
-Rojas y Barbaran (2021) 
-Espinoza  & Mendoza  (2022), PORTOVIEJO
-Vera (2019) 
+Tarrillo  & Callao (2022), 
+Vásquez, Llatas y Alarcón, (2020) 
+Espinoza  & Mendoza  (2022)
+Bone y Ponce (2023), 
 
+LOCAL
 
-LOCAL(azul)
-Vásquez, Llatas y Alarcón, (2020) BAMBAMARCA
 
 
 ----------------------------------------------------------------
 MARCO TEORICO
 
 MUNDIAL 
-Trelles y Morán (2023) ECUADOR
 Martínez  & Cano(2023) *
 a Martínez Sánchez & Cano Moreno, (2023) *
 Tutiven  & Soledispa (2024), *
@@ -59,6 +55,41 @@ Trujillo (2020),
 ----------------------------------------------------------------------
 LOCAL
 Carlos & Jeimi, (2023)   
+
+
+METODOLOGIA DE LA INVESTIGACION 
+
+http://www.biblioteca.cij.gob.mx/Archivos/Materiales_de_consulta/Drogas_de_Abuso/Articulos/metodologia%20de%20la%20investigacion.pdf
+
+
+IMPUESTO PREDIAL X3
+	CUMPLIMIENTO TRIBUTARIO*
+		-RECAUDACION *
+		-CULTURA TRIBUTARIA*
+	CONTRIBUYENTE*
+		-OBLIGACIONS TRIBUTARIAS*
+		-VALOR CATASTRAL*
+	VALORACION DE BIENES 
+		-EFICIENTE CONTRATACIONES
+		-RECURSOS
+	DETERMINACION TRIBUTARIA
+		-BASE IMPONIBLE*
+		-COBERTURA CATASTRAL*
+PRESUPUESTO x3
+	GASTOS PUBLICOS*
+		-PRESUPUESTO INSTITUCIONAL*
+		-PRESUPUESTO PARTICIPATIVO*
+	EJECUCION PRESUPUESTAL*
+		-INGRESOS*
+		-EGRESOS*
+	VIABILIDAD FINANCIERA*
+		-RECURSOS PUBLICOS
+		-CONTROL DE GASTOS
+	RENDICION DE CUENTAS*
+		-INFORMES PUBLICOS*
+		-PUBLICACION PRESUPUESTAL
+
+	
 
 
 https://cdn.www.gob.pe/uploads/document/file/5856673/5189042-directiva_0001_2024ef5001.pdf?v=1707849679
