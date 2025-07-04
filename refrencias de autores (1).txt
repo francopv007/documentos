@@ -21,21 +21,28 @@ Vargas & Zavaleta, (2020), *-
 
 LOCAL(azul)
 Vásquez, Llatas y Alarcón, (2020) BAMBAMARCA*-
-
-
-
+Alva, García, Ramírez, & Mucha (2020) peru-chimbote*-
+Quispe y otros (2020)peru-puno, 
+Trejo  & Peñalver  (2024) Trujillo peru 
+Tamayo & Machaca (2024)lima-peru, 
 ----------------------------------------------------------------
 MARCO TEORICO
 IMPUESTO PREDIAL
-
 	Molina, Tobón y Fonseca (2018), colombia*-
+	Asqui (2022), ECUADOR
+	
 
+PRESUPUESTO
+	Rincón y Lemos(2020), Colombia *-
+	Guao(2019),venezuela  *-
+	Payán (2019), Mexico
+	Colin( 2023), venezuela 
 ----------------------------------------------------------------
 
 MUNDIAL 
 Martínez  & Cano(2023) * ECUADOR
 a Martínez Sánchez & Cano Moreno, (2023) *
-Tutiven  & Soledispa (2024), *
+Tutiven  & Soledispa (2024),
 Colin( 2023), 
 Asqui (2022), 
 Payán (2019)
@@ -48,22 +55,22 @@ Molina, Tobón y Fonseca (2018)
 ---------------------------------------------------------------------
 
 NACIONAL
-Romero , Soria ,del Castillo  y Colmenares (2021) *
-Alva, García, Ramírez, & Mucha (2020) *
-Torres & Torres  (2017), *
-Tutiven & Soledispa (2024)  
-Bone & Ponce (2023), X3
-Quispe y otros (2020),  
-Trejo  & Peñalver  (2024) 
-Tamayo & Machaca (2024), 
-Soria , Castillo, & Vega(2022), *
-Vásquez, Llatas & Alarcón, (2020) 
-Rituay y Baylon (2024), 
-Romero , Soria, del Castillo, & Colmenares (2021) 
-Gaspar, Zambrano, Castro  y Díaz(2021)
-Montúfar & Silva (2020),
-Vargas & Zavaleta (2020),  .
-Trujillo (2020), 
+Romero , Soria ,del Castillo  y Colmenares (2021) peru
+Alva, García, Ramírez, & Mucha (2020) peru-chimbote
+Torres & Torres  (2017)peru-moquegua, 
+Tutiven & Soledispa (2024)peru-lomas   
+Bone & Ponce (2023), X3 peru
+Quispe y otros (2020)peru-puno,  
+Trejo  & Peñalver  (2024) Trujillo peru 
+Tamayo & Machaca (2024)lima-peru, 
+Soria , Castillo, & Vega(2022)puchana-peru, 
+Vásquez, Llatas & Alarcón, (2020) banbamarca- peru
+Rituay y Baylon (2024)lima-peru, 
+Romero , Soria, del Castillo, & Colmenares (2021) peru
+Gaspar, Zambrano, Castro  y Díaz(2021)- no es nacional
+Montúfar & Silva (2020)lima-peru,
+Vargas & Zavaleta (2020)libertad-peru,  .
+Trujillo (2020)peru, 
 ----------------------------------------------------------------------
 LOCAL
 Carlos & Jeimi, (2023)   
