@@ -53,7 +53,7 @@ IMPUESTO PREDIAL
 	CUMPLIMIENTO TRIBUTARIO
 		Bone & Ponce (2023),
 		CULTURA TRIBUTARIA
-		 Bone & Ponce  (2023) 
+		Bone & Ponce  (2023) 
 		RECAUDACION
 		Quispe y otros (2020),  
 	CONTRIBUYENTES
@@ -73,13 +73,28 @@ PRESUPUESTO
 	Payán (2019), Mexico
 	Colin( 2023), venezuela 
 	GASTOS PUBLICOS                
-	Vargas & Zavaleta (2020), 
+		Vargas & Zavaleta (2020), 
+		PRESUPUESTO INSTITUCIONAL 
+		SIDALAC, (2020), 
+		PRESPUESTO PARTICIPATIVO   
+		Garcia y Tellez, (2018) 
 	EJECUCION PRESUPUESTAL      
-	Solorzano (2018), 
-	 VIABILIDAD FINANCIERA 
-	Barrera, Sagarnaga, Salas, Leos, y Santos, (2018), 
-	RENDICION DE CUENTAS 
-	Tumi, (2020), 
+		Solorzano (2018),
+		INGRESOS            
+		Peñaherrera y otros (2019), 
+		EGRESOS
+		Almache y otros (2020) 
+	VIABILIDAD FINANCIERA 
+		Barrera, Sagarnaga, Salas, Leos, y Santos, (2018),
+		RECURSOS DEL SECTOR PUBLICOS
+		CONTROL DE GASTOS PUBLICOS
+	(PUBLICACION PRESUPUESTAL) PRESUPUESTO PUBLICO
+		Tumi, (2020), 
+		INFORMES PUBLICOS
+		RENDICION DE CUENTAS 
+		
+		
+	
 
 ----------------------------------------------------------------
 
